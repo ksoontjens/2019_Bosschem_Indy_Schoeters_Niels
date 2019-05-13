@@ -6,5 +6,5 @@ Niels Schoeters - Indy Bosschem - MCT/Nxt - 2019
 ------------------------------------------Project------------------------------------------
 
 Highway racer game
-- Doge cars
+- Dodge cars
 - Get to your destination
